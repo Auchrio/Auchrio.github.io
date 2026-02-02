@@ -1,13 +1,4 @@
-var websites = [
-    {
-        title: "Cryptocurrency Exchanger",
-        link: "https://cryochanger.github.io/",
-        client: "@Auchrio",
-        description: "This is a simple website for exchanging cryptocurrencies, using the changenow.io API. ",
-        imgFull: "./img/web-1.cryoChanger-Full.png",
-        imgThumb: "./img/web-1.cryoChanger-Thumb.png"
-    }
-];
+var websites = [];
 
 var tools = [];
 
